@@ -1,4 +1,4 @@
-const postPredictHandler = require('../server/handler');
+const postPredictHandler = require('./handler');
  
 const routes = [
   {

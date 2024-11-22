@@ -1,0 +1,6 @@
+{  
+    "backend-service-url": "https://backend-mlgc-654789342779.asia-southeast2.run.app",
+    "frontend-service-url": "https://submissionmlgc-aryasaputra.et.r.appspot.com/",
+    "project-id": "submissionmlgc-aryasaputra",
+    "bucket-name": "bucket-submissionmlgc-aryasaputra"
+}
